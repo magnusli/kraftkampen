@@ -1,13 +1,11 @@
-<html>
-<h1> Kraftkampen </h1>           
-<p>-Et mobilt lagspill for undomskoleelever som supplerer en installasjon om pumpekraft på Inspiria Science Center</p>
+KRAFTKAMPEN -Et mobilt lagspill for undomskoleelever som supplerer en installasjon om pumpekraft på Inspiria Science Center
   
-<p>
+
 Prosjekt i faget INF2260 - Interaksjonsdesign ved Institutt for Informatikk, Universitetet i Oslo
 Utviklet av Håkon L'Orange, Caroline Vegge, Simon Oliver Ommundsen og Magnus Li.
 Høst 2013
-</p>
---
 
+
+--
+Mobil applikasjon. Også kode for en dynamisk hovedskjerm og admin-panel. (Mappe storskjerm og admin)
 Kode i HTML, CSS, PHP og javascript. 
-</html>
