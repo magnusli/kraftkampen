@@ -1,3 +1,5 @@
+[Norwegian]
+
 KRAFTKAMPEN -Et mobilt lagspill for undomskoleelever som supplerer en installasjon om pumpekraft på Inspiria Science Center
   
 
@@ -7,5 +9,5 @@ Høst 2013
 
 
 --
-Mobil applikasjon. Også kode for en dynamisk hovedskjerm og admin-panel. (Mappe storskjerm og admin)
+Webbasert applikasjon. Også kode for en dynamisk hovedskjerm og admin-panel. (Mappe storskjerm og admin)
 Kode i HTML, CSS, PHP og javascript. 
