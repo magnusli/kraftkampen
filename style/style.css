@@ -1,0 +1,345 @@
+body
+{
+	background-color:#DFF2FE;
+	background-repeat:no-repeat;
+	background-position:top center;
+}
+
+h1
+{
+	font-family: 'Noto Sans', sans-serif;
+	font-weight:normal;
+	font-size: 60px;
+	color:#424242;
+	
+}
+
+p
+{
+	font-family: 'Noto Sans', sans-serif;
+	font-size:31px;
+	color:#0C151D;
+	
+}
+
+a
+{
+	display:inline;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+td
+{
+	font-family: 'Noto Sans', sans-serif;
+	font-size:28px;
+	line-height:180%;
+}
+
+hint
+{
+	display:inline;
+	font-family: 'Noto Sans', sans-serif;
+	font-size:25px;
+	color:#FF1500;
+}
+
+#frame {
+	
+	background-image:url('bakgrunn.jpg');
+	position: relative;
+	width: 960px;
+	height: 640px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #DFF2FE;
+	background-repeat: no-repeat;
+	background-position:stretch;
+	border-style:solid;
+	border-width:0px;
+}
+
+#title {
+	position: relative;
+	border-style: solid;
+	border-width: 5px;
+	float: right;
+	width: 80%;
+	height: 100px;
+	margin-top: 20px;
+	margin-right; 100px;
+	
+}
+
+#content {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 96%;
+	height: 98%;
+	margin-top: 0.5%;
+	margin-left: 10px;
+}
+
+#navigasjon {
+	position: absolute;
+	border-style: solid;
+	border-width: 0px;
+	float: right;
+	width: 150px;
+	margin-left: 810px;
+	margin-top: 18px;
+	height: 5%;
+
+}
+
+/* INTRO-SIDE */
+
+
+
+#ok_knapp {
+	position: relative;
+
+	margin-top: 4.5%;
+	float: right;
+
+}
+
+#setname {
+	position: relative;
+	
+	left: auto;
+}
+
+/* GENERELL SIDELAYOUTS: */
+
+#walter_snakkeboble {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 28%;
+	height: 90%;
+
+}
+
+#snakkeboble {
+
+	position:relative;
+	position: relative;
+	float:left;
+	height: 80%;
+	width:65%;
+	
+}
+
+#img_snakkeboble {
+	position:absolute;
+	left:0;
+	top:0;
+
+}
+
+#snakkeboble_tekst {
+	
+	position:absolute;
+	left:80;
+
+}
+
+#walter {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 30%;
+	height: 90%;
+
+}
+
+#waltertekst {
+	position: relative;
+	border-style: solid;
+	border-width:0px;
+	float:left;
+	width:65%;
+
+}
+
+#svarfelt {
+	border-style:solid;
+	border-width:0px;
+	position:relative;
+	margin-top: 10px;
+	width: 100%;
+	
+}
+
+st {
+   position: absolute; 
+   top: 29%; 
+   left: 5px; 
+
+   width: 98%; 
+   font-family:"Century Gothic";
+	font-size:25px;
+	color:#0C151D;
+
+}
+
+
+
+#svar1 {
+
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 44%;
+	height: 110px;
+	margin-left: 3%;
+
+}
+
+#svar2 {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 44%;
+	height: 110px;
+	margin-left: 3%;
+}
+
+#svar3 {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 44%;
+	height: 110px;
+	margin-left: 3%;
+	margin-top: 0.4%;
+
+}
+
+#svar4 {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 44%;
+	height: 110px;
+	margin-left: 3%;
+	margin-top: 0.4%;
+}
+
+#footer {
+	position: relative;
+	width: 885px;
+	height: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#tab_content {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	height: 75%;
+	
+}
+
+#tab_progress {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	margin-top: 0px;
+
+}
+
+#left_text {
+	position: absolute;
+	border-style: solid;
+	border-width: 0px;
+	margin-left: 40px;
+	width: 60%;
+	height: 100%;
+
+}
+
+#right_image {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	float: right;
+	width: 30%;
+	margin-left: 20px;
+	margin-right: 30px;
+	height: 90%;
+
+}
+
+#left_image {
+	position: absolute;
+	border-style: solid;
+	border-width: 0px;
+	width: 30%;
+	margin-left: 15px;
+	height: 80%;
+
+}
+
+#right_text {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	float: right;
+	width: 65%;
+	height: 100%;
+	padding-left: 15px;
+
+}
+
+#intro_lag {
+	position: absolute;
+	border-style: solid;
+	border-width: 0px;
+	width: 30%;
+	margin-left: 100px;
+	height: 100%;
+
+}
+
+#intro_info {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	float: left;
+	margin-left: 460px;
+	width: 65%;
+	height: 80%;
+
+}
+
+/* Pumpestats: */
+
+#pumpestats_venstre {
+	float: left;
+	margin-left: 6.5%;
+	margin-top: 30px;
+}
+
+#pumpestats_senter {
+	float: left;
+	margin-left: 8.5%;
+	margin-top: 30px;
+}
+
+#pumpestats_hoyre {
+	float: left;
+	margin-left: 8.5%;
+	margin-top: 30px;
+}

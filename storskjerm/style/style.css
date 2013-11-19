@@ -1,0 +1,287 @@
+body
+{
+	background-color:#DFF2FE;
+}
+
+h1
+{
+	font-family:"Century Gothic";
+	font-weight:normal;
+	font-size: 60px;
+	color:#424242;
+	
+}
+
+h5
+{
+	font-family:"Century Gothic";
+	font-size:24px;
+	color:#0C151D;
+}
+
+p
+{
+	font-family:"Century Gothic";
+	font-size:38px;
+	color:#0C151D;
+}
+
+a
+{
+	display:inline;
+	width:60px;
+	font-size:18px;
+	text-decoration:none;
+	font-family:"Arial";
+	color:"White";
+}
+
+td
+{
+	font-family:"Century Gothic";
+	font-size:22px;
+	line-height:180%;
+}
+
+hint
+{
+	font-family:"Century Gothic";
+	font-size:25px;
+	color:#F28500;
+}
+
+a:link {color:#000000;}    /* unvisited link */
+a:visited {color:#A3A37A;} /* visited link */
+a:hover {color:#808080;}   /* mouse over link */
+a:active {color:#A3A37A;}  /* selected link */
+
+
+#frame {
+	
+	background-image:url('bakgrunn.jpg');
+	position: relative;
+	width: 1136px;
+	height: 640px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	/*background-color: #1BB5E8;*/
+	background-repeat: no-repeat;
+	background-position:stretch;
+	border-style:solid;
+	border-width:0px;
+}
+
+#title {
+	position: relative;
+	border-style: solid;
+	border-width: 5px;
+	float: right;
+	width: 80%;
+	height: 100px;
+	margin-top: 20px;
+	margin-right; 100px;
+	
+}
+
+#content {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 90%;
+	height: 95%;
+	margin-top: 0px;
+	margin-left: 70px;
+	padding-top: 0px;
+	padding-left: 5px;
+}
+
+#navigasjon {
+	position: absolute;
+	border-style: solid;
+	border-width: 0px;
+	float: right;
+	width: 150px;
+	margin-left: 975px;
+	margin-top: 18px;
+	height: 5%;
+
+}
+
+#walter {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 30%;
+	height: 90%
+
+}
+
+#waltertekst {
+	position: relative;
+	border-style: solid;
+	border-width:0px;
+	float:left;
+	width:65%;
+
+}
+
+#svarfelt {
+		border-style:solid;
+		border-width:0px;
+		position:relative;
+		margin-top: 50px;
+		width: 100%;
+		
+}
+
+st {
+   position: absolute; 
+   top: 40px; 
+   left: 0; 
+   width: 100%; 
+   font-family:"Century Gothic";
+	font-size:25px;
+	color:#0C151D;
+
+}
+
+
+
+#svar1 {
+
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 45%;
+	height: 110px;
+	margin-left: 10px;
+
+}
+
+#svar2 {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 45%;
+	height: 110px;
+	margin-left: 6%;
+}
+
+#svar3 {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 45%;
+	height: 110px;
+	margin-left: 10px;
+	margin-top: 30px;
+
+}
+
+#svar4 {
+	position: relative;
+	border-style:solid;
+	border-width:0px;
+	float: left;
+	width: 45%;
+	height: 110px;
+	margin-left: 6%;
+	margin-top: 30px;
+}
+
+#footer {
+	position: relative;
+	width: 885px;
+	height: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#tab_content {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	height: 530px;
+	
+}
+
+#tab_progress {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	margin-top: 30px;
+
+}
+
+#left_text {
+	position: absolute;
+	border-style: solid;
+	border-width: 0px;
+	width: 60%;
+	height: 100%;
+
+}
+
+#right_image {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	float: right;
+	width: 30%;
+	margin-left: 20px;
+	height: 100%;
+
+}
+
+#left_image {
+	position: absolute;
+	border-style: solid;
+	border-width: 0px;
+	width: 30%;
+	margin-left: 20px;
+	height: 100%;
+
+}
+
+#right_text {
+	position: relative;
+	border-style: solid;
+	border-width: 0px;
+	float: right;
+	width: 60%;
+	height: 100%;
+
+}
+
+/* MAINSCREEN */
+
+stort
+{
+	font-family:"Century Gothic";
+	font-weight:normal;
+	font-size: 150px;
+	color:#424242;
+
+}
+
+#scoreboard_list {
+	position: absolute;
+	width: 60%;
+
+}
+
+
+
+#scoreboard_teamstats {
+	position:relative;
+	width: 35%;
+	float: right;
+
+}
